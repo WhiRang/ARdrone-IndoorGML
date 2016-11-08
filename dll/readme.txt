@@ -1,0 +1,1 @@
+These libs need to copy Release & Debug folder where have drone.exe.

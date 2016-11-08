@@ -1,0 +1,1 @@
+You need to setting about this library files at Linker settings. (Please add files in your project)
